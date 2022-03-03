@@ -6,7 +6,7 @@ to edit and process the English sources while translating them into Turkish duri
 studies. The aim is to make a program that is easy, practical and time-saving.
 
 ## Problem as an example
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/emirhanbilge/WorkHelper/blob/main/exp1.gif)
 
 ## My Tool
 
