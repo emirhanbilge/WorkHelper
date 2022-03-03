@@ -10,4 +10,4 @@ studies. The aim is to make a program that is easy, practical and time-saving.
 
 ## My Tool
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/emirhanbilge/WorkHelper/blob/main/exp2.gif)
